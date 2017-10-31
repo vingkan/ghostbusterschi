@@ -51,6 +51,34 @@ function reportToUser(error) {
 	return 'Server Error: ' + error; //JSON.stringify(error);
 }
 
+function revealGhosts(data, ghosts) {
+	if (data.length <= 10) {
+		let missingID = false;
+		for (let r = 0; r < data.length; r++) {
+			if (!(':id' in data[r])) {
+				missingID = true;
+				break;
+			}
+		}
+		if (missingID) {
+			return data;
+		} else {
+			let haunted = data.map((row) => {
+				let id = row[':id'];
+				if (id in ghosts) {
+					row.ghost = ghosts[id];
+				} else {
+					row.ghost = null;
+				}
+				return row;
+			});
+			return haunted;
+		}
+	} else {
+		return data;
+	}
+}
+
 /* API Endpoints */
 
 app.use((req, res, next) => {
@@ -66,6 +94,7 @@ app.use((req, res, next) => {
 app.get('/data', (req, res) => {
 	get(DATASET_URL, req.query).then((raw) => {
 		let data = JSON.parse(raw);
+		data = revealGhosts(data, config);
 		res.send(data);
 	}).catch((error) => {
 		res.send(error);
