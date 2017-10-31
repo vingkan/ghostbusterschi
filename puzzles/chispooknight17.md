@@ -2,4 +2,7 @@
 Challenge description coming soon...
 
 ## Clue #1: Radial Ruins
-Clues will appear here.
+I'm hiding in a Gold Oldsmobile
+Cast a radial spell for the ghoulish reveal
+I haunt students, children, and elders, all
+Start looking near IIT's Hermann Hall
