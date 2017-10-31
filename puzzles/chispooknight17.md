@@ -23,12 +23,16 @@ The only thing that scares Ameya Pawar more than me is Citizens United.
 I've been here longer than any other ghost
 
 ## Clue #7: Scary Skeletons
+![Skeletons](https://media.giphy.com/media/YZNbgrZ46Ihag/giphy.gif)
+
 We're hiding where it's almost spooky, but not quite
 
 ## Clue #8: Tis the Season
+![David S Pumpkins](https://media.giphy.com/media/3oriNYMXEh2K5l4D9C/giphy.gif)
+
 My pumpkin paint job has been parked more than 15, but not quite 30 days
 
 ## Clue #9: Strap On Your Proton Packs
-![Stay Puft Marshmallow Man](https://marriageconfessions.files.wordpress.com/2009/01/stay-puft-marshmallow-man.jpg)
+![Stay Puft Marshmallow Man](https://media.giphy.com/media/yevNNFQNtdagM/giphy.gif)
 
 Got any tall buildings?
