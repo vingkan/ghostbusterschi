@@ -24,3 +24,10 @@ I've been here longer than any other ghost
 
 ## Clue #7: Scary Skeletons
 We're hiding where it's almost spooky, but not quite
+
+## Clue #8: Tis the Season
+My pumpkin paint job has been parked more than 15, but not quite 30 days
+
+## Clue #9: Strap On Your Proton Packs
+![Stay Puft Marshmallow Man](https://marriageconfessions.files.wordpress.com/2009/01/stay-puft-marshmallow-man.jpg)
+Got any tall buildings?
