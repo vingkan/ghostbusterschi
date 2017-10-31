@@ -18,3 +18,9 @@ I may not be in Rogers Park, but I'll always have school pride
 
 ## Clue #5: Pawar's Poltergeist
 The only thing that scares Ameya Pawar more than me is Citizens United.
+
+## Clue #6: Ancient Ones
+I've been here longer than any other ghost
+
+## Clue #7: Scary Skeletons
+We're hiding where it's almost spooky, but not quite
