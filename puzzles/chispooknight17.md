@@ -53,3 +53,8 @@ My pumpkin paint job has been parked more than 15, but not quite 30 days
 ![Stay Puft Marshmallow Man](https://media.giphy.com/media/yevNNFQNtdagM/giphy.gif)
 
 Got any tall buildings?
+
+## Clue #11: Hip 'n Haunted
+![Hipster Ghost](https://i.pinimg.com/originals/bd/71/2f/bd712f742f450c5c1e96747539bcd004.gif)
+
+As a hipster ghost, I hide only in cars of the 8th-most popular color car. I also liked Nissan before it was cool to like Nissan.
